@@ -26,10 +26,10 @@ gitbook 主页: https://www.gitbook.com/book/lexdene/gcc-five-minutes
 
 - 微信公共账号：
 
-![qrcode__860](images\qrcode__860.jpg)
+![qrcode__860](/images/qrcode__860.jpg)
 
 
 
 知识星球：（付费的,别加入）
 
-![知识星球](images\知识星球.jpg)
+![知识星球](/images/知识星球.jpg)
